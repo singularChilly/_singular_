@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af178a9b-fc5e-4821-9a4b-8804ee48c553" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJjk4EeFdehbAmULJBr4TagQy0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.GUIGame">
+    <configuration name="ComputerRunning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerRunning" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUIGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUIGame" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunningIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunningIndex" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeFinal" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUIGame" />
+        <item itemvalue="Application.ComputerRunning" />
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.TicTacToeFinal" />
+        <item itemvalue="Application.RunningIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af178a9b-fc5e-4821-9a4b-8804ee48c553" name="Default Changelist" comment="" />
+      <created>1586460730050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586460730050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1588790994948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588790994948" />
+    <state x="715" y="222" width="1020" height="596" key="#xdebugger.evaluate" timestamp="1588799247226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" width="1020" height="596" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1588799247226" />
+    <state x="718" y="426" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588695478902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="426" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1588695478902" />
+    <state width="705" height="466" key="DebuggerActiveHint" timestamp="1587077624851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="705" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1587077624851" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1587366163859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587366163859" />
+    <state width="1876" height="327" key="GridCell.Tab.0.bottom" timestamp="1588862970144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588862970144" />
+    <state width="1876" height="327" key="GridCell.Tab.0.center" timestamp="1588862970144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588862970144" />
+    <state width="1876" height="327" key="GridCell.Tab.0.left" timestamp="1588862970144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588862970144" />
+    <state width="1876" height="327" key="GridCell.Tab.0.right" timestamp="1588862970144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588862970144" />
+    <state x="756" y="145" key="SettingsEditor" timestamp="1587138115679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="145" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587138115679" />
+    <state x="607" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588621945346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588621945346" />
+    <state x="592" y="217" width="736" height="606" key="find.popup" timestamp="1588798502646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="217" width="736" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588798502646" />
+    <state x="342" y="139" key="new project wizard" timestamp="1587366166350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587366166350" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1588696096501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588696096501" />
+    <state x="994" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1588788006702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="994" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588788006702" />
+  </component>
+</project>
